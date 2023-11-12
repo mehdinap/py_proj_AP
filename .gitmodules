@@ -1,3 +1,6 @@
 [submodule "py_practice_AP_2"]
 	path = py_practice_AP_2
 	url = git@github.com:mehdinap/py_practice_AP_2.git
+[submodule "py_practice_AP_3"]
+	path = py_practice_AP_3
+	url = git@github.com:mehdinap/py_practice_AP_3.git
